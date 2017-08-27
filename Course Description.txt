@@ -1,0 +1,16 @@
+This 4 hour workshop introduces students to the concept of rapid device prototyping using the Arduino microcontroller. Over the course of this workshop, students will assemble and program a simple thermometer that measures the ambient environment and displays that value to an OLED screen. Over the course of this workshop, students will be introduced to some of the most important concepts and skills for developing electronic devices; including:
+
+• Using the Arduino Integrated Development Environment
+• Writing Arduino Code
+• Communicating with your Arduino
+• Getting data from digital devices
+• Sending data to digital devices
+• Logic and Control Structures
+• Device mounting and encasement
+
+At the end of the course, they will have am Adruino powered mobile thermometer, complete with screen and case, that is theirs to keep. This workshop is designed for inventors, designers, programmers, and other Makers interested in bringing their own projects and products to life using Arduino. 
+
+Course Fee $90.00
+Materials Fee $90.00
+
+Total: $180.00
