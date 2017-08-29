@@ -1,4 +1,4 @@
-This 4 hour workshop introduces students to the concept of rapid device prototyping using the Arduino microcontroller. Over the course of this workshop, students will assemble and program a simple thermometer that measures the ambient environment and displays that value to an OLED screen. Over the course of this workshop, students will be introduced to some of the most important concepts and skills for developing electronic devices; including:
+This 4 hour workshop introduces students to the concept of rapid device prototyping using the Arduino microcontroller. Over the course of this workshop, students will assemble and program a device which measures temperature, pressure, humidity and altitude and displays those values on an OLED screen. Over the course of this workshop, students will be introduced to some of the most important concepts and skills for developing electronic devices; including:
 
 • Using the Arduino Integrated Development Environment
 • Writing Arduino Code

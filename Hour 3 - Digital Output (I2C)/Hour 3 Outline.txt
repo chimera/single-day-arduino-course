@@ -1,0 +1,11 @@
+Intro:
+In this section students will integrate a new piece of hardware with the Arduino: the OLED display. Students will be given operational code to run that prints a running counter to the OLED Screen. Students will create a wiring hardness to implement the power and I2C interface needed to drive the OLED.
+
+3.1 - Wiring (15 mins)
+Students will take a presoldered OLED and connect (using female/male jumper wires) the wires for power/ground and I2C.
+
+3.2 - Run Code (20 mins)
+Students will load the provided sketch to the Arduino and observe the data being written to the OLED Display. Students will be encouraged to take a moment to write some values of their own choosing to the display and experiment. 
+
+3.3 - I2C Lecture (25 mins)
+Students will learn the function of each pin on the I2C bus. Students will also learn how a bus enables many devices to share common communication lines. Students will learn about the strengths and weaknesses of I2C and SPI.  

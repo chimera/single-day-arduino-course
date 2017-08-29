@@ -1,0 +1,11 @@
+Intro:
+In this section students will integrate a new piece of hardware with the Arduino: the BME280 Temperature Sensor. Students will be given operational code to run that prints values from the BME280 to the serial port. Students will create a wiring hardness to implement the power and SPI interface needed to drive the BME280.  
+
+2.1 - Wiring (15 mins)
+Students will take a presoldered BME280 and connect (using female/male jumper wires) the wires for power/ground and SPI. 
+
+2.2 - Run Code (20 mins)
+Students will load the provided sketch to the Arduino and observe the data being written to the Serial Monitor. Students should experiment with changing the environmental conditions and observing the change in the numbers. Students will uncomment code to get readings for humidity, pressure, and altitude. 
+
+2.3 - SPI Lecture (25 mins)
+Students will learn the function of each pin on the SPI bus. Students will also learn how a bus enables many devices to share common communication lines. Students will learn about bits and bytes.  

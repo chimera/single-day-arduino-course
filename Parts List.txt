@@ -1,8 +1,8 @@
 Arduino Uno https://www.adafruit.com/product/50 $24.95
 USB Cable https://www.adafruit.com/product/62 $3.95
 OLED Display https://www.adafruit.com/product/931 $17.50
-Temp Sensor https://www.adafruit.com/product/2652 $19.95
-Ribbon Connector https://www.adafruit.com/product/266 $3.95
+BME280 https://www.adafruit.com/product/2652 $19.95
+Jumper Wires https://www.adafruit.com/product/826 $3.95
 Battery Holder https://www.adafruit.com/product/67 $3.95
 
 9V Battery $2.00

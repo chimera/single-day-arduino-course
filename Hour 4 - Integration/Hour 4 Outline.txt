@@ -1,0 +1,9 @@
+Intro:
+In this section, students will take what they have learned so far to solve a more open ended programming challenge. They will write a program that displays the readings from the BME280 on the OLED screen. They will integrate the device into a 3D printed case with a battery. 
+
+4.1 Programming (30 mins)
+Students will modify a template program to write values from the BME280 to the OLED at some user-defined interval. They will upload, run, test, and repeat until such time they believe their code is working to their satisfaction. 
+
+4.2 Mounting/Finalizing (30 mins)
+Students will mount their prototype devices in the case, connect to the 9V power source, and have a completed device to take home with them. 
+
