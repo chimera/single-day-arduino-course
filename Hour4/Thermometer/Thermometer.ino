@@ -28,6 +28,12 @@ void setup() {
     } 
     Serial.println("...BME280 initialized");  
 
+  pinMode(A3, OUTPUT);
+  digitalWrite(A3, LOW);
+  delay(1000);
+  digitalWrite(A3, HIGH);
+
+  
   /*Initialize the OLED as in the OLED sketch*/
   oled.begin(address); 
   oled.setTextColor(WHITE);

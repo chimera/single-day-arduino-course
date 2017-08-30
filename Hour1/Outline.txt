@@ -4,11 +4,11 @@ In this hour, students will write a program called HelloWorld that will print th
 1.1 - Arduino IDE (10 mins)
 Students will open the Arduino IDE, create a completely blank sketch, and upload that sketch to their Arduino. They will learn about the steps of the build process: Write-->Compile-->Upload-->Run
 
-1.2 - Functions (10 mins)
-Students will learn that a function encapsulates some functionality, that it has a name and output type, that it may have inputs and ouputs, and logic that is bounded by curly braces. 
-
-1.3 - Setup and Loop (10 mins)
+1.2 - Setup and Loop (10 mins)
 Students will learn the two required functions of an Arduino program. They will learn that setup executes when the device is powered or reset, and loop executes continously thereafter. They will learn that an Arduino only ever excutes a single program. 
+
+1.3 - Functions (10 mins)
+Students will learn that a function encapsulates some functionality, that it has a name and output type, that it may have inputs and ouputs, and logic that is bounded by curly braces. 
 
 1.4 Verifying and Uploading (10 mins)
 Students will learn that when they press the Verify button, the compiler turns their code into machine runnably bytecode. This is where compile errors are created if the code is not perfect. Students will learn that when they press the Upload button the code is written to the Adruino and starts to execute. 
