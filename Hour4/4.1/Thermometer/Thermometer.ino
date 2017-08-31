@@ -1,4 +1,4 @@
-/*Include the libraries from the BME280 sketch*/
+/*Include the libraries from the BME280 sketch*/ 
 #include <SPI.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
@@ -8,9 +8,9 @@
 #include <Adafruit_SSD1306.h>
 
 /*Include the global variables from the  BME280 sketch*/
+Adafruit_BME280 bme(chipSelect);
 int chipSelect = 10;
 float sealevel = 1013.25;
-Adafruit_BME280 bme(chipSelect);
 
 /*Include the global variables from the  OLED sketch*/
 Adafruit_SSD1306 oled(0);
@@ -27,14 +27,13 @@ void setup() {
         while (1);    
     } 
     Serial.println("...BME280 initialized");  
-
+  
+  /*Initialize the OLED as in the OLED sketch*/
   pinMode(A3, OUTPUT);
   digitalWrite(A3, LOW);
   delay(1000);
-  digitalWrite(A3, HIGH);
-
-  
-  /*Initialize the OLED as in the OLED sketch*/
+  digitalWrite(A3, HIGH); 
+ 
   oled.begin(address); 
   oled.setTextColor(WHITE);
   oled.display();
