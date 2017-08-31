@@ -1,18 +1,17 @@
 Intro:
-In this hour, students will write a program called HelloWorld that will print the simple message "Hello World" to the screen. This is a traditional approach to getting up and running with a new environment. It ensures that all the tools needed to write code, load it to the board, excute and debug it are in place. 
+Students will learn about the basic Arduion operations of writing, compiling, uploading, and debugging code. 
 
-1.1 - Arduino IDE (10 mins)
+1.1 - Arduino and Arduion IDE (10 mins)
 Students will open the Arduino IDE, create a completely blank sketch, and upload that sketch to their Arduino. They will learn about the steps of the build process: Write-->Compile-->Upload-->Run
 
-1.2 - Print Setup and Loop (20 mins)
+1.2 - Setup and Loop and Print (10 mins)
 Students will learn the two required functions of an Arduino program. They will learn that setup executes when the device is powered or reset, and loop executes continously thereafter. They will learn that an Arduino only ever excutes a single program. They will lean how to print to the serial port and open the serial monitor
 
-1.4 - Debugging (10 mins)
-Students will learn to catch and correct compile errors. They will correct and run a provided piece of non functioning code. 
+1.3 - Variables and Function (20 mins)
+Students will understand the concepts of varaiables, type, assignment, functions, arguments, and output. 
+
+1.4 - Debugging (20 mins)
+Students will learn to catch and correct compile errors. They will correct and run a provided piece of non functioning code. Students will learn to use debug statements to correct errors in code that runs, but not according to design. 
 
 
 
-
-
-1.6 Challenge (10 mins)
-Students will write, upload, run and test code that prints the word 'setup' once, and then prints the word 'loop' many times. They will be given a hint about using the delay(1000) word to keep things from getting too messy. 
