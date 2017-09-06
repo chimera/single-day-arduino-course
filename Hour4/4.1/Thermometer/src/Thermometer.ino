@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 /*Include the libraries from the BME280 sketch*/ 
 #include <SPI.h>
 #include <Adafruit_Sensor.h>
@@ -8,13 +10,13 @@
 #include <Adafruit_SSD1306.h>
 
 /*Include the global variables from the  BME280 sketch*/
-Adafruit_BME280 bme(chipSelect);
 int chipSelect = 10;
 float sealevel = 1013.25;
+Adafruit_BME280 bme(chipSelect);
 
 /*Include the global variables from the  OLED sketch*/
-Adafruit_SSD1306 oled(0);
 int address = 0x3C;
+Adafruit_SSD1306 oled(0);
 
 void setup() {
   /*Initialize Serial at 9600 baud and print init message*/  

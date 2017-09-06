@@ -2,7 +2,7 @@
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 
-int chipSelect = 9;
+int chipSelect = 10;
 float sealevel = 1013.25;
 
 Adafruit_BME280 bme(chipSelect);
